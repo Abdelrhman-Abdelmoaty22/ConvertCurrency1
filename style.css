@@ -168,6 +168,9 @@ body::after{
 }
 
 footer{
-    margin-top: 50px;
-    color:chocolate;
+    margin-top: 35px;
+}
+
+a{
+    color: red;
 }
