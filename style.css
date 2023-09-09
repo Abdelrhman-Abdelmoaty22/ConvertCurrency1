@@ -169,8 +169,25 @@ body::after{
 
 footer{
     margin-top: 35px;
+    justify-content: center;
+    text-align: center;
+    justify-items: center;
 }
 
 a{
+    color:yellow ;
+}
+
+a:hover{
     color: red;
+}
+
+a::after{
+    color: yellowgreen;
+}
+
+p{
+    color: #000;
+    font-size: x-small;
+    margin-top: 15px;
 }
