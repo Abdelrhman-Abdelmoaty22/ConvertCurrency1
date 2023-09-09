@@ -166,3 +166,8 @@ body::after{
 .container form button:hover{
     color: #675afe;
 }
+
+footer{
+    margin-top: 50px;
+    color:chocolate;
+}
